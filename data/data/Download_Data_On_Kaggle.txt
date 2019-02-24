@@ -1,0 +1,2 @@
+Download data on Kaggle from:
+https://www.kaggle.com/c/expedia-personalized-sort/data
